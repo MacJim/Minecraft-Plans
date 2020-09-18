@@ -16,8 +16,17 @@ The rest of this document deal with "small flowers" only and refers them as simp
 
 When building a "small flower" farm, prioritize on those not available as "tall flowers".
 
-Dye Color | Flowers
---- | ---
+Dye Color | Flower Types | Small Flower Only
+--- | --- | ---
+White Dye | Lily of the Valley | **YES**
+Light Gray Dye | Azure Bluet, Oxeye Daisy, White Tulip | **YES**
+Red Dye | Poppy, Red Tulip, Rose Bush | NO
+Orange Dye | Orange Tulip | **YES**
+Yellow Dye | Dandelion, Sunflower | NO
+Light Blue Dye | Blue Orchid | **YES**
+Blue Dye | Cornflower | **YES**
+Magenta Dye | Allium, Lilac | NO
+Pink Dye | Pink Tulip, Peony | NO
 
 ## Small Flower Biomes
 
