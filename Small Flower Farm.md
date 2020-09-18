@@ -1,25 +1,28 @@
-# Flower Farm
+# Small Flower Farm
 
-- [Flower Farm](#flower-farm)
-    - [Flower Biomes](#flower-biomes)
+- [Small Flower Farm](#small-flower-farm)
     - [Flower Types and Dye Colors](#flower-types-and-dye-colors)
+    - [Small Flower Biomes](#small-flower-biomes)
     - [Flower Generation Notes](#flower-generation-notes)
     - [Flower Finder Data Pack for Minecraft 1.14 and 1.15](#flower-finder-data-pack-for-minecraft-114-and-115)
     - [Flower Farm by Ilmango](#flower-farm-by-ilmango)
     - [Flower Forest Candidates](#flower-forest-candidates)
         - [(200, 300) Near the Witch Farm](#200-300-near-the-witch-farm)
 
-## Flower Biomes
-
-1. Flower Forest: every single block high flower except for Blue Orchid and Wither Rose
-2. Swamp: Blue Orchid
-
 ## Flower Types and Dye Colors
 
-When building a "small flower" farm, prioritize on those not available as tall flowers.
+"Small flower" refers to 1-block-tall flowers.
+The rest of this document deal with "small flowers" only and refers them as simply "flowers".
+
+When building a "small flower" farm, prioritize on those not available as "tall flowers".
 
 Dye Color | Flowers
 --- | ---
+
+## Small Flower Biomes
+
+1. Flower Forest: every single block high flower except for Blue Orchid and Wither Rose
+2. Swamp: Blue Orchid
 
 ## Flower Generation Notes
 
@@ -47,4 +50,3 @@ Dye Color | Flowers
 
 Chunk | Flower Types
 --- | ---
-
