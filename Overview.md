@@ -122,25 +122,17 @@ Use Xisuma's design: <>
 
 ## Flower farm
 
-- Xisuma's video: <https://www.youtube.com/watch?v=YqVLvzj4lDY>
-- Flower finder: <https://www.youtube.com/watch?v=upr82yOVJfE>
 
-### Flower biomes
-
-1. Flower Forest: every single block high flower except for Blue Orchid and Wither Rose
-2. Swamp: Blue Orchid
-
-### Flower generation notes
-
-1. Flowers need light to grow if bone meal is used on a grass block.
-2. When flowers spawn from bone meal, the type spawned depends on the X/Z position in the world. In a flower forest, any given coordinate can only ever spawn one type of flower. Thus, I'll need to build plenty of these farms in the flower forest biome.
-3. 2 block high flowers are only generated upon world generation. To obtain these flowers infinitely, use bone meal directly on them.
 
 ## Automatic wool farm
 
 Wool farm using 1.14 dispenser / shears mechanics.
 
-This farm might be laggy and is best built in the End.
+~~This farm might be laggy and is best built in the End.~~
+
+Tango and Impulse's design: <https://www.youtube.com/watch?v=t5OZzzV3zWU>
+
+Probably build it under my ice farm.
 
 ## Massive mooshroom farm
 
