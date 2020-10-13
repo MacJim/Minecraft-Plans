@@ -51,6 +51,7 @@ Ocean monument exploited range: (1183, ?, -751) to (1152, ?, -786)
 ### Spawners
 
 Spider dungeon coordinate: (562, 57, -88)
+Spider dungeon coordinate: (626, 14, 0)
 Zombie dungeon coordinate: (556, 59, -67)
 Zombie dungeon coordinate: (521, 17, -107)
 
