@@ -133,7 +133,8 @@ Center point (near my house): (487, 12, -87)
 ### Portals
 
 Home Nether portal coordinate (in Nether): (73, 42, 0)
-Ice farm Nether portal coordinate (in Nether): (75, 73, 259)
+Ice farm Nether portal coordinate (old): (75, 73, 259)
+Ice farm Nether portal coordinate (new): (149, 69, 247)
 
 ### Wither Skeleton Farm
 
