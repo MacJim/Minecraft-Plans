@@ -1,0 +1,115 @@
+# Docm77's Mods
+
+TODO: Tweak the config of all mods.
+
+## APIs
+
+### Fabric API
+
+<https://www.curseforge.com/minecraft/mc-mods/fabric-api>
+
+### Malilib
+
+<https://www.curseforge.com/minecraft/mc-mods/malilib>
+
+Dependency of Litematica and MiniHUD.
+
+### Carpet
+
+<https://www.curseforge.com/minecraft/mc-mods/carpet>
+
+Tutorial: <https://www.youtube.com/watch?v=Lt-ooRGpLz4>
+
+## Performance
+
+### Sodium
+
+<https://modrinth.com/mod/sodium>
+
+TODO: Is it limited by macOS's outdated OpenGL implementation?
+
+### Indium
+
+<https://www.curseforge.com/minecraft/mc-mods/indium>
+
+Add Fabric Rendering API support to Sodium.
+
+### Krypton
+
+<https://www.curseforge.com/minecraft/mc-mods/krypton>
+
+Network optimizations.
+
+TODO: Does it work for single player?
+
+### Lithium
+
+<https://www.curseforge.com/minecraft/mc-mods/lithium>
+
+## Starlight
+
+<https://www.curseforge.com/minecraft/mc-mods/starlight>
+
+Improve lighting performance.
+
+TODO: Seems to have some incompatibilities with Litematica previews.
+
+## Appearance
+
+### Continuity
+
+<https://www.curseforge.com/minecraft/mc-mods/continuity/files>
+
+Connected textures (for Optifine parity).
+
+Continuity will not work without the Indium mod if Sodium is installed.
+
+## Utilities
+
+### LiteMatica
+
+<https://www.curseforge.com/minecraft/mc-mods/litematica>
+
+### Logical Zoom
+
+<https://www.curseforge.com/minecraft/mc-mods/logical-zoom>
+
+Press C to zoom (parity with Optifine).
+
+### MiniHUD
+
+<https://www.curseforge.com/minecraft/mc-mods/minihud>
+
+More than a mini HUD: Shows structure bounding boxes, spawn range, etc.
+
+### Tweakeroo
+
+<https://www.curseforge.com/minecraft/mc-mods/tweakeroo>
+
+Various tweaks:
+
+- Inventory preview
+- Remove own potion particles
+
+TODO: Too many tweaks. Need to disable most of them.
+
+## Unused
+
+### ReplayMod
+
+TODO: Need custom ffmpeg arguments.
+Does ffmpeg support Apple VT HEVC encoder?
+
+### Status
+
+<https://github.com/henkelmax/status>
+
+Player status is useless in single player.
+
+### Voice Chat
+
+Useless in single player.
+
+### Chat Up
+
+I don't use the chat box much.
