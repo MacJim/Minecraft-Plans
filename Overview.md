@@ -18,15 +18,19 @@
     - [Passive & hostile mob farm](#passive--hostile-mob-farm)
     - [Pillager emerald farm](#pillager-emerald-farm)
     - [Flower farm](#flower-farm)
-        - [Flower biomes](#flower-biomes)
-        - [Flower generation notes](#flower-generation-notes)
     - [Automatic wool farm](#automatic-wool-farm)
     - [Massive mooshroom farm](#massive-mooshroom-farm)
     - [Fish farm (seem quite useless though)](#fish-farm-seem-quite-useless-though)
+    - [Ender Pearl Stasis Teleporter](#ender-pearl-stasis-teleporter)
 
 ## Nether Hub
 
 Refer to Hermitcraft Season 6 design: <https://www.youtube.com/watch?v=8PJgr2EyWm8>
+
+Thoughts:
+
+- Use orange & black glass blocks to construct a "lantern" hanging down from the roof
+    - Or maybe build a fire-breathing dragon out of red, orange, and yellow glass?
 
 ## Ocean Monument base
 
@@ -146,3 +150,9 @@ This farm might be laggy and is best built in the End.
 ## Fish farm (seem quite useless though)
 
 Use docm77's / ilmango's 1.13 design. They should work in 1.14 as well.
+
+## Ender Pearl Stasis Teleporter
+
+TODO: Use Etho's design
+
+- [ ] Enderman farm
